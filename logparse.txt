@@ -1,0 +1,116 @@
+Aug  1 08:10:01 voip systemd: Created slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (siyad1110)
+Aug  1 08:10:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:20:01 voip systemd: Created slice User Slice of root.
+Aug  1 08:20:01 voip systemd: Started Session 1500 of user root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (siyad10)
+Aug  1 08:20:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:30:01 voip systemd: Created slice User Slice of root.
+Aug  1 08:30:01 voip systemd: Started Session 1501 of user root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (siyad9)
+Aug  1 08:30:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:40:01 voip systemd: Created slice User Slice of root.
+Aug  1 08:40:01 voip systemd: Started Session 1502 of user root.
+Aug  1 08:40:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:50:01 voip systemd: Created slice User Slice of root.
+Aug  1 08:50:01 voip systemd: Started Session 1503 of user root.
+Aug  1 08:50:01 voip systemd: Removed slice User Slice of root.
+Aug  1 09:00:02 voip systemd: Created slice User Slice of root.
+Aug  1 09:00:02 voip systemd: Started Session 1504 of user root.
+Aug  1 09:00:02 voip systemd: Removed slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (siyad7)
+Aug  1 09:01:01 voip systemd: Created slice User Slice of root.
+Aug  1 09:01:01 voip systemd: Started Session 1505 of user root.
+Aug  1 09:01:01 voip systemd: Removed slice User Slice of root.
+Aug  1 09:10:01 voip systemd: Created slice User Slice of root.
+Aug  1 09:10:01 voip systemd: Started Session 1506 of user root.
+Aug  1 09:10:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (siyad2)
+Aug  1 09:20:01 voip systemd: Created slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (siyad3)
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (root)
+Aug  1 09:20:01 voip systemd: Started Session 1507 of user root.
+Aug  1 09:20:01 voip systemd: Removed slice User Slice of root.
+Aug  1 09:30:01 voip systemd: Created slice User Slice of root.
+Aug  1 09:30:01 voip systemd: Started Session 1508 of user root.
+Aug  1 09:30:01 voip systemd: Removed slice User Slice of root.
+Aug  1 09:40:01 voip systemd: Created slice User Slice of root.
+Aug  1 09:40:01 voip systemd: Started Session 1509 of user root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (siyad)
+Aug  1 09:40:01 voip systemd: Removed slice User Slice of root.
+Aug  1 09:50:01 voip systemd: Created slice User Slice of root.
+Aug  1 09:50:01 voip systemd: Started Session 1510 of user root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (siyad6)
+Aug  1 09:50:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user (siyad5)
+Aug  1 10:00:01 voip systemd: Created slice User Slice of root.
+Aug  1 10:00:01 voip systemd: Started Session 1511 of user root.
+Aug  1 10:00:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user root
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user root
+Aug  1 10:01:01 voip systemd: Created slice User Slice of root.
+Aug  1 10:01:01 voip systemd: Started Session 1512 of user root.
+Aug  1 10:01:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user root
+Aug  1 10:10:01 voip systemd: Created slice User Slice of root.
+Aug  1 10:10:01 voip systemd: Started Session 1513 of user root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user root
+Aug  1 10:10:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user root
+Aug  1 10:20:01 voip systemd: Created slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user root
+Aug  1 10:20:01 voip systemd: Started Session 1514 of user root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user root
+Aug  1 10:20:01 voip systemd: Removed slice User Slice of root.
+Aug  1 08:10:01 voip systemd: CRON  Started Session 1499 of user root
+Aug  1 10:30:01 voip systemd: Created slice User Slice of root.
+Aug  1 10:30:01 voip systemd: Started Session 1515 of user root.
+Aug  1 10:30:01 voip systemd: Removed slice User Slice of root.
+Aug  1 10:40:01 voip systemd: Created slice User Slice of root.
+Aug  1 10:40:01 voip systemd: Started Session 1516 of user root.
+Aug  1 10:40:01 voip systemd: Removed slice User Slice of root.
+Aug  1 10:50:01 voip systemd: Created slice User Slice of root.
+Aug  1 10:50:01 voip systemd: Started Session 1517 of user root.
+Aug  1 10:50:01 voip systemd: Removed slice User Slice of root.
+Aug  1 11:00:01 voip systemd: Created slice User Slice of root.
+Aug  1 11:00:01 voip systemd: Started Session 1518 of user root.
+Aug  1 11:00:01 voip systemd: Removed slice User Slice of root.
+Aug  1 11:01:01 voip systemd: Created slice User Slice of root.
+Aug  1 11:01:01 voip systemd: Started Session 1519 of user root.
+Aug  1 11:01:01 voip systemd: Removed slice User Slice of root.
+Aug  1 11:10:01 voip systemd: Created slice User Slice of root.
+Aug  1 11:10:01 voip systemd: Started Session 1520 of user root.
+Aug  1 11:10:01 voip systemd: Removed slice User Slice of root.
+Aug  1 11:20:01 voip systemd: Created slice User Slice of root.
+Aug  1 11:20:01 voip systemd: Started Session 1521 of user root.
+Aug  1 11:20:01 voip systemd: Removed slice User Slice of root.
+Aug  1 11:30:01 voip systemd: Created slice User Slice of root.
+Aug  1 11:30:01 voip systemd: Started Session 1522 of user root.
+Aug  1 11:30:01 voip systemd: Removed slice User Slice of root.
+Aug  1 11:40:01 voip systemd: Created slice User Slice of root.
+Aug  1 11:40:01 voip systemd: Started Session 1523 of user root.
+Aug  1 11:40:01 voip systemd: Removed slice User Slice of root.
+Aug  1 11:50:01 voip systemd: Created slice User Slice of root.
+Aug  1 11:50:01 voip systemd: Started Session 1524 of user root.
+Aug  1 11:50:01 voip systemd: Removed slice User Slice of root.
+Aug  1 12:00:01 voip systemd: Created slice User Slice of root.
+Aug  1 12:00:02 voip systemd: Started Session 1525 of user root.
+Aug  1 12:00:02 voip systemd: Started Session 1526 of user root.
+Aug  1 12:01:01 voip systemd: Started Session 1527 of user root.
+Aug  1 12:10:01 voip systemd: Started Session 1528 of user root.
+Aug  1 12:10:43 voip systemd: Removed slice User Slice of root.
+Aug  1 12:20:01 voip systemd: Created slice User Slice of root.
+Aug  1 12:20:01 voip systemd: Started Session 1529 of user root.
+Aug  1 12:20:01 voip systemd: Removed slice User Slice of root.
+Aug  1 12:25:38 voip systemd-logind: New session 1530 of user dbaux
+Aug  1 12:25:38 voip systemd: Started Session 1530 of user dbaux.
+Aug  1 12:25:39 voip dbus[2096]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Aug  1 12:25:39 voip dbus[2096]: [system] Successfully activated service 'org.freedesktop.problems'
+Aug  1 12:25:39 voip journal: clutter_actor_set_size: assertion 'CLUTTER_IS_ACTOR (self)' failed
+Aug  1 12:25:39 voip journal: clutter_actor_show: assertion 'CLUTTER_IS_ACTOR (self)' failed
+Aug  1 12:25:39 voip journal: clutter_actor_set_size: assertion 'CLUTTER_IS_ACTOR (self)' failed
+Aug  1 12:25:39 voip journal: clutter_actor_show: assertion 'CLUTTER_IS_ACTOR (self)' failed
+Aug  1 12:26:04 voip dbus[2096]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Aug  1 12:26:04 voip systemd: Starting Fingerprint Authentication Daemon...
+Aug  1 12:26:04 voip dbus[2096]: [system] Successfully activated service 'net.reactivated.Fprint'
+Aug  1 12:26:04 voip systemd: Started Fingerprint Authentication Daemon.
